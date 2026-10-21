@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/coherent-optical-transceiver-explainer/
 
+Repository: https://github.com/mizcausevic-dev/coherent-optical-transceiver-explainer
+
 ## What this is
 
 An interactive anatomy plate for Coherent Optical Transceiver. Play, scrub, or jump the five stages. The same frame always draws the same picture.
